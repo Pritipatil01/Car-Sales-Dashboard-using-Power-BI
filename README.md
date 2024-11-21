@@ -15,3 +15,6 @@ Interactive Charts: Visualize sales trends with a weekly trend line chart, explo
 geographical sales distribution by dealer region with a map chart.
 
 Grid Displays: Analyze company-wise sales trends in a tabular grid format and view detailed information for each car sale in a comprehensive grid view
+
+# Screenshots
+"D:\Itvedant\Power BI Project\Screenshot (230).png"
