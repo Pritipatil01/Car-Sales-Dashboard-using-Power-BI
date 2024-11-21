@@ -18,3 +18,4 @@ Grid Displays: Analyze company-wise sales trends in a tabular grid format and vi
 
 # Screenshots
 ![Screenshot (230)](https://github.com/user-attachments/assets/dc2779e9-dd9d-4ebb-8ced-0fa253da5a41)
+![Screenshot (231)](https://github.com/user-attachments/assets/712f90a8-69a4-47e8-bda1-983fd0199c19)
