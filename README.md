@@ -17,4 +17,4 @@ geographical sales distribution by dealer region with a map chart.
 Grid Displays: Analyze company-wise sales trends in a tabular grid format and view detailed information for each car sale in a comprehensive grid view
 
 # Screenshots
-https://github.com/Pritipatil01/Car-Sales-Dashboard-using-Power-BI/blob/main/Screenshot%20(230).png
+![Screenshot (230)](https://github.com/user-attachments/assets/dc2779e9-dd9d-4ebb-8ced-0fa253da5a41)
